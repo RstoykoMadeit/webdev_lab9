@@ -1,6 +1,6 @@
 function init(){
 //add your javascrip between these two lines of code
- var  button = document.getElementById('entryinput');
+ var  button = document.getElementById('entrybutton');
  
  function showMeText(){
 	 var textbox = document.getElementById('entryinput');
